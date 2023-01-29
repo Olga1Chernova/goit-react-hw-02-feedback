@@ -1,0 +1,24 @@
+.notification{
+    text-align: center;
+    font-size: 24px;
+    color: darkgreen;
+}
+
+.feedbackList {
+    font-size: 24px;
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.feedbackButton {
+    display: inline-block;
+    width: 90px;
+    height: 44px;
+    cursor: pointer;
+    border-radius: 180px;
+    border-color: darkgreen;
+    font-size: 16px;
+}

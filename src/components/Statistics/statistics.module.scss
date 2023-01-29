@@ -1,0 +1,14 @@
+.statisticsTitle{
+    text-align: center;
+    font-size: 24px;
+}
+
+.statisticsList{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    list-style: none;
+    font-size: 24px;
+    gap: 20px;
+}
